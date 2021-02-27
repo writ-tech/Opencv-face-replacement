@@ -4,5 +4,5 @@ The haar-cascade open source package has been used to develop this app.
 ### Required Python Libraries on Local Machine:
 * cv2
 
-#### Example image of app running.
+#### An instance of the app.
 ![](assets/1.png)
