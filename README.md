@@ -4,4 +4,4 @@ A python based application that allows a user to replace his face with a custom 
 * cv2
 
 
-![Example image of app running.]()
+![Example image of app running.](assets/1.png)
