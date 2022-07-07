@@ -5,4 +5,5 @@ The haar-cascade open source package has been used to develop this app.
 * cv2
 
 #### An instance of the app.
-![](assets/1.png)
+
+![1 (1)](https://user-images.githubusercontent.com/46087868/177814430-1c3011b1-2d1c-4372-9e34-42f048716b47.png)
